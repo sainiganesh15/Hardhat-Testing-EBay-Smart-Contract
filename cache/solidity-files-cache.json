@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\91887\\OneDrive\\Desktop\\Hardhat-Testing(EBay)\\contracts\\Ebay.sol": {
+      "lastModificationDate": 1681278423706,
+      "contentHash": "4c3666e270df30d124efb45665d9010c",
+      "sourceName": "contracts/Ebay.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Ebay"
+      ]
+    }
+  }
+}
